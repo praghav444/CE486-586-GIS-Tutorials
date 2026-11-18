@@ -1,0 +1,22 @@
+# Tested versions (November 2026). Colab already has most of the unpinned packages.
+numpy
+pandas
+matplotlib
+scipy
+requests
+geopandas
+rasterio
+shapely
+pyproj
+folium
+pystac-client
+planetary-computer
+torch
+geoai-py==0.43.1
+leafmap==0.64.7
+whitebox==2.3.6
+omniwatermask==0.6.2
+smoothify
+# Earth Engine demo only
+geemap
+earthengine-api
